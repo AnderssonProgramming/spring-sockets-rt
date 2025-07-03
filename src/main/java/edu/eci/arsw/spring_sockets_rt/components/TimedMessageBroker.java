@@ -1,6 +1,6 @@
 package edu.eci.arsw.spring_sockets_rt.components;
 
-import co.edu.escuelaing.websocketsprimer.endpoints.TimerEndpoint;
+import edu.eci.arsw.spring_sockets_rt.endpoints.TimerEndpoint;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.logging.Level;
